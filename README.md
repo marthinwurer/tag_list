@@ -52,6 +52,7 @@ Category ideas:
 * stuff for actual image quality: black and white, drawing, diagram, color, blurry, sharp, large, small, etc.
 * single/multiple
 * clothes
+* international symbols
 
 Start with large objects and work towards smaller ones - human sized, then half human, twice human, 1/4 human, ...
 
