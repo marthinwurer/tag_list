@@ -40,7 +40,7 @@ Category ideas:
 * places - for labeling maps
 * office stuff
 * minimal technical jargon
-* external human body parts, fluids.
+* external human body parts, fluids. - anatomy
 * Verbs as descriptions of what's happening in the picture? or what objects are doing?
 * common jobs
 * foods - pick one culture's food, probably american, and roll with it
@@ -49,7 +49,13 @@ Category ideas:
 * weather
 * colors
 * states of life (young, old, baby, pregnant, hurt, etc)
+* stuff for actual image quality: black and white, drawing, diagram, color, blurry, sharp, large, small, etc.
+* single/multiple
+* clothes
 
+Start with large objects and work towards smaller ones - human sized, then half human, twice human, 1/4 human, ...
+
+Use baby books to pick up important things for culture. Sesame street?
 
 
 # Tag list:
