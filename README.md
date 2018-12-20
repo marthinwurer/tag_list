@@ -53,6 +53,7 @@ Category ideas:
 * single/multiple
 * clothes
 * international symbols
+* disasters
 
 Start with large objects and work towards smaller ones - human sized, then half human, twice human, 1/4 human, ...
 
